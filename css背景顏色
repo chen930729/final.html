@@ -1,0 +1,21 @@
+<html>
+
+  <head>
+    <title>css背景顏色</title>
+    <style>
+      .bg1 {
+        background-color: yellow;
+      }
+
+      #bg2 {
+        color: red;
+      }
+
+    </style>
+  </head>
+
+  <body>
+    <span class="bg1">寶雅啟動全新店型計畫</span>，內部針對不同商圈與TA（目標消費者），首度規劃四大類店型，並將陸續啟動改裝計畫，法人認為，寶雅全新店型規劃將有望提升營運效能，有望啟動新獲利動能。四大店型分別為<span id="bg2">寶雅社區店、寶雅+寶家複合店、 POYA Beauty逛街店、 POYA Beauty美妝mall店</span>，未來寶家將不再獨立展店，且現有的36家寶家將陸續轉型為寶雅+寶家複合店。內部並規劃2024年店型整改將聚焦「複合店」、2025則年則聚焦「POYA Beauty」。
+  </body>
+
+</html>
