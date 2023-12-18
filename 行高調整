@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8" />
+    <title></title>
+    <style>
+      span {
+        line-height: 300%
+      }
+
+    </style>
+  </head>
+
+  <body>
+    <span>桃園國際機場公司建立數位資訊整合平台，攜手機場服務大聯盟240個公、民營單位，提升機場營運效能，達到「便利旅客通關」的核心目標，榮獲行政院第6屆政府服務獎數位創新加值類獎項肯定。</span>
+  </body>
+
+</html>
