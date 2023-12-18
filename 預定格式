@@ -1,0 +1,18 @@
+<html>
+
+  <head>
+    <title>預定格式</title>
+    <meta charset=utf8>
+  </head>
+
+  <body>
+    <pre>
+   class Hello{
+            static void main(){
+                console.writeline("Hello, world");
+            }
+        }
+    </pre>
+  </body>
+
+</html>
